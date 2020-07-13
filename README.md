@@ -10,8 +10,8 @@ Front-end of the Smartbrain Face recognition webapp
 Live demo of the webpage (Github pages): [Smartbrain](https://karluust.github.io/smartbrain)
 
 ## Technologies used
--HTML/CSS
--JavaScript
--React, Create React App
--NPM
--Tachyons
+* HTML/CSS
+* JavaScript
+* React, Create React App
+* NPM
+* Tachyons
