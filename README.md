@@ -3,6 +3,7 @@
 Front-end of the Smartbrain Face recognition webapp
 
 >Final project of the ZTM webdev course by Andrei Neagoie
+
 >Back-end code repo: [Smartbrain API](https://github.com/karluust/smartbrain-api)
 
 ## Live demo
