@@ -7,7 +7,7 @@ Front-end of the Smartbrain Face recognition webapp
 >Back-end code repo: [Smartbrain API](https://github.com/karluust/smartbrain-api)
 
 ## Live demo
-Live demo of the webpage (Github pages): [Smartbrain](karluust.github.io/smartbrain/)
+Live demo of the webpage (Github pages): [Smartbrain](https://karluust.github.io/smartbrain)
 
 ## Technologies used
 -HTML/CSS
